@@ -188,6 +188,10 @@ hr {
     left: 0px;
 }
 
+.icon-net{
+    width: 5%;
+    height: 5%;
+}
 
 @media screen and  (min-width: 1380px) {
     .nav-size {
