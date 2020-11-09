@@ -138,11 +138,17 @@ hr {
 .title-main-side-notice {
     font-family: "robotoBold";
     position: relative;
+    
 }
 
 .notice-titles {
     max-width: 45%;
     display: inline-block;
+    
+}
+
+.letra-chiquita{
+    font-size: 14px;
 }
 
 .main-side-image {
